@@ -6,7 +6,7 @@
     - [Json Handling](./topics/json-handling.md)
     - [Date handling](./topics/date-handling.md)
 -   Creating modules and using them
--   Lists, Tuples, Sets, Dictionaries
+-   Lists (Mutable), Tuples (Immutable), Sets, Dictionaries
 -   [Accepting user input](./user_input.py)
 -   Format printing : `print(f"hello {name}")`
 -   __name__ and __main__
