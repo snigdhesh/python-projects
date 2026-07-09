@@ -1,4 +1,4 @@
-from POCs.User import User
+from models.User import User
 from services import utils
 
 def main():

@@ -15,3 +15,4 @@
 | `services/` | Reusable Python modules and utilities |
 | `POCs/` | Quick, self-contained code snippets |
 | `data/` | Sample test data in various formats |
+| `models/` | Data models and schema definitions |
