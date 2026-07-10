@@ -1,3 +1,9 @@
+#### Small topics
+- lists
+- range function
+- loops
+- print statement
+
 #### Topics
 
 -   [virutal environment](./topics/venv.md) 
