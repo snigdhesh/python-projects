@@ -1,11 +1,8 @@
-marks = range(1,51)
+def calculateSalary(hoursWorked, hourlyPay):
+    return hoursWorked * hourlyPay
 
-for mark in marks:
-    if (mark % 3 == 0 and mark % 5 == 0):
-        print("FizzBuzz")
-    elif (mark % 3 == 0):
-        print("Fizz")
-    elif (mark % 5 == 0):
-        print("Buzz")
-    else:
-        print(mark)
+manasaSalary = calculateSalary(40, 15) #manasa
+divyaSalary = calculateSalary(35, 20) #divya
+
+print(f"manasa earned {manasaSalary}")
+print(f"Divya earned {divyaSalary}")
