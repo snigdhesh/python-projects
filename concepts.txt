@@ -1,4 +1,0 @@
-lists
-range function
-loops 
-print
